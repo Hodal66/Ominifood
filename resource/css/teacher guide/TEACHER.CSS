@@ -1,0 +1,27 @@
+.container{
+    background-color:orange;
+    display:inline-table;
+
+}
+.container-1{
+    background-color: gray;
+    width: 300px;
+    height: 150px;
+}
+.container-2{
+    background-color: rgb(65, 64, 64);
+    width: 500px;
+    height: 250px;
+}
+.container-3{
+    background-color: rgb(26, 25, 25);
+    width: 900px;
+    height: 450px;
+
+}
+.circle{
+    width: 500px;
+    height: 500px;
+    background-color: orange;
+    border-radius: 5% 5% 60% ;
+}

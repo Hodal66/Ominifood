@@ -1,0 +1,89 @@
+
+.title{
+		font-size: 30px;
+		text-align:center;
+
+}
+#second
+{
+	font-size: 15px;
+}
+.sign
+{
+	background-color:lightgray;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	margin-left: 530px;
+	margin-right: 530px;
+	border-radius: 5px 5px 0px 0px;
+	padding: 25px;
+	text-align: center;
+	font-size: 20px;
+}
+.finputx{
+    margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 530px;
+	margin-right: 530px;;
+	padding: 0px 0px 10px 10px;
+	background-color:rgb(60,60,60);
+	color: #f1f1f1;
+}
+label{
+	margin: 25px;
+}
+#sign-upbtn{
+	background-color: dodgerblue;
+	color: white;
+	padding: 10px;
+	text-align: left;
+	border-radius: 10px;
+	margin: 25px;
+}
+#sign-inbtn{
+	width: 80%;
+	background-color:gray;
+	color: white;
+	padding: 10px;
+	border-spacing: 30px;
+	border-radius: 10px;
+	margin: 25px;
+
+}
+input{
+	background-color: gray;
+	border-radius: 10px;
+	padding: 10px;
+	width: 80%;
+	margin: 25px;
+	color: white;
+}
+.check
+{
+	margin-left:0px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	padding: 0px;
+	color: red;
+	background-color: blue;
+}
+.account
+{
+	margin: 25%;
+}
+.check1{
+	margin: 0px;
+}
+button{
+	margin-left: 80%;
+	padding: 20px;
+	background-color: green;
+	color: white;
+}
+a{
+	color: white;
+	font-size: 20px;
+	padding: 5px;
+	text-decoration: none;
+}
